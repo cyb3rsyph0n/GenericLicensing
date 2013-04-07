@@ -1,0 +1,2 @@
+"C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\Bin\sn.exe" -R "C:\Source\Visual Studio\Projects\GenericLicensing\CyberSyphonLicensing\bin\Release\CyberSyphonLicensing.dll" "C:\Source\Visual Studio\Projects\GenericLicensing\CyberSyphonLicensing\SignatureCert.snk"
+"C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\Bin\sn.exe" -R "C:\Source\Visual Studio\Projects\GenericLicensing\CyberSyphonLicensing\bin\Debug\CyberSyphonLicensing.dll" "C:\Source\Visual Studio\Projects\GenericLicensing\CyberSyphonLicensing\SignatureCert.snk"
